@@ -3,8 +3,6 @@
 
 The Omnia Foundation is a **non-profit organization** dedicated to the development of the [Omnia programmin language](https://github.com/Omnia-Foundation/Omnia-Language) and ecosystem  
 
-This is a <sub>subscript</sub> text
-
 <!--
 
 **Here are some ideas to get you started:**
