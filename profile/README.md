@@ -1,7 +1,7 @@
 ## Foundation
 ***
 
-The Omnia Foundation is a **non-profit organization** dedicated to the development of the [Omnia programmin language](https://github.com/Omnia-Foundation/Omnia-Language) and ecosystem  
+The Omnia Foundation is a **non-profit organization** dedicated to the development of the [Omnia programming language](https://github.com/Omnia-Foundation/Omnia-Language) and ecosystem  
 
 <!--
 
